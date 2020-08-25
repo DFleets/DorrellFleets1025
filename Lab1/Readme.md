@@ -1,1 +1,11 @@
-Made two read me files because I wasnt sure where you wanted me to place it lol...
+# **Executive Summary**
+
+# **Information System Components**
+
+# **GitHub**
+
+### Client-Server architecture
+
+### Cloud Computing
+
+# **Conclusion**
