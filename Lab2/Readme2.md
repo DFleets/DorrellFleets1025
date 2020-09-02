@@ -75,5 +75,12 @@ counts as 128,64,32,16,8,4,2,1
 Hexadecimal also known as the base 16 system is like the base 10 system but also includes six letters that extend it to sixteen spots 
 counting like 0123456789ABCDEF. The last 6 spots counting as 10,11,12,13,14, and 15
 
+#### **Data Representation:Hexadecimal Color Representation**
+AB00FF is a color composed of 61.1% red 0% green and a 100% blue in an RGB color space.
+In a CMYK color space it is composed of 32.9% cyan 100% magenta 0% yellow and 0% black. 
+It is a mostly pure violet color.
+I do not believe it would be that problematic when used on a page but if making your page accessible seeing as slight variances in shade may not register with the persons eyes. You should becareful in the use of similar shades in the background and other font if you want it to stand out,not be invisible or hard to see. I for one would have trouble with this on a page of all purples unless the difference is drastic.
 
 # **Conclusion**
+we covered today various types of hardware and inputs in this chapter and the different ways the computer can interpret an display(output) data using binary,decimal, and hexadecimal. Learned that no matter the computation we see up front the computer converts it to binary behind the scenes and how hexadecimal using a 16 bit base can output color adding different levels of saturation in RGB. Ive never really paid much attention to Hexadecimal myself just thought it was just color codes so it was kind of intriguing to see the breakdown of it as well as seeing how the computer accepts user inputs and what it does with it. Binary is kind of fun once I remembered how it worked.
+Also on the hardware side learning about what keeps your computer fast and whats happening inside of it to make it run was also interesting an has given me a better understanding of what would be necessary in building a computer if I want it to not be a technological paper weight.
