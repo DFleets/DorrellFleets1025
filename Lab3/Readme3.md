@@ -52,4 +52,4 @@ so to better yourself and your learning.It can also help to introduce you to fut
 it also expresses how much the subject interests you as well as a great way to showcase your skills.
 
 # **Conclusion**
-In this chapter not only did we start learning about various types of software, we even touched on a little coding. Before going on to explore the type of education required to progress in this field.
+In this chapter not only did we start learning about various types of software, we even touched on a little coding. Before going on to explore the type of education required to progress in this field. Along with various resources to continue said education.
