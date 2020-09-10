@@ -21,7 +21,12 @@ An under utilized hardware.
 Hypervisors seperate your actual resources from the virtual enviorment.They take your resources and divde them up for use for your Virtual enviorments.
 
 ### **Python**
+**A.** What is meant by the "Pseudo-Code nature of python" is that Python is typically easy to read and uses a simple approach to its language.
+Pseudocode is a "plain language description of steps in an algorithm or another system".
 
+**B.** A compiled language is a language converted from its source langauge to that of your computer using a compiler. Where as an interpreted language
+is that which doesnt need to be changed to binary. You run it directly from the source code. it then gets coverted internally into an intermediate called bytecodes and is then 
+translated into the computers language.
 
 ### **Careers in Computing**
 
