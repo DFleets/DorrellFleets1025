@@ -28,7 +28,9 @@ Pseudocode is a "plain language description of steps in an algorithm or another 
 is that which doesnt need to be changed to binary. You run it directly from the source code. it then gets coverted internally into an intermediate called bytecodes and is then 
 translated into the computers language.
 
-### **Careers in Computing**
+### **Career Exploration**
+
+### **College Central***
 
 
 # **Conclusion**
