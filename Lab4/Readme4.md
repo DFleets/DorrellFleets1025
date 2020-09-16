@@ -28,7 +28,21 @@ A string pretty much can push anything through even a number like 6. But if you 
 you would switch to a int() function for your integer Or use float() if your number contains a decimal point.  
 
 ## **Graphics**
+A. In Raster format the pixels are usually too small to see until you zoom in.. BUt with Vector format you can make the image
+larger or smaller without runining the image because it adjust with it.Also instead of pixels its rendered using special geometry.
 
+B.Lossless is when all the data from the image compression is preserved, while lossy is when some of the original dats is removed reducing file size
+of the image.
+
+C.JPEG(Joint Photographic Experts Group) is a lossy compression format that allows the user to decide the amount of compression used.
+Gif(Graphical Interchange Format) is a bitmap image format that is 8 bits per pixel and supports animations which neither of the other two can do.
+PNG(Portable Network Graphics) is a bitmap image format that was made to replace Gif, supports 24 bits or 32 bits color. As well as being able to support transparency
+options.
+
+### **File Properties**
+A.
+
+B.
 
 # **Conclusion**
 
