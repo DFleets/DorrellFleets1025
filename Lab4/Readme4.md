@@ -47,4 +47,5 @@ B.My image is about 30 KB and opens with PNG I wanted PNG because to me the outl
 # **Conclusion**
 Today we touched on Python Code a little more and did some hands on training in graphic design. 
 Making logos and manipulating file size to not waste unnessary space. 
-Though seemingly simple to do. it would definitely take more practice to master.
+Though seemingly simple to do, it would definitely take more practice to master.
+We also dabbled in computer file creation and navigation using CommandPrompts.
