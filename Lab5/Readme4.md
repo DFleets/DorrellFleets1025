@@ -34,6 +34,7 @@ A switch though similar is intelligent an can learn the addresses of devices con
 A wireless mesh topology allows you to connect your wireless access point to other wireless access points without having to run extra cords and are all talking to eachother and does not matter if one goes out because they will simply reroute. Making it the superior topology.
 
 ### **Network Design**
+My network design is a Wireless Mesh Topology. I choose this because it has a high level of redundancy so if one(or more) was to fail the others would pick up for it and relay the connections all the way back to the modem. Also since it is wireless there are many access points.. So for me it just seemed to be the most logical.. And honestly probably one of the easier ones to set up.
 
 ### **NSA/CSS**
 
