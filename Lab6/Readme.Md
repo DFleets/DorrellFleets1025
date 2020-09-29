@@ -18,7 +18,7 @@ one with layers is much easier to work with... since most of the tasks and funct
 
 2. The types of applications that run on the "application" layer are HTTP, FTP, POP3, SMTP, and SNMP.
 
-### ** Internet Security**
+### **Internet Security**
 A.HTTP is Hypertext Transfer Protocol. it supports the client server model by the you typing in whatever site address your computer "calls" up that location and waits for whatever server to pick up so that the information exchange can begin.
 
 B. The protocols that secure HTTP uses (or HTTPS) to protect your data is with SSL(secure sockets layer) and TLS(Transport Layer Security) Not only does it scramble the data ( using Public Key Encryption) but it requires the website to identify itself an the computer will send its digital SSL certificate. TLS works in the same way as SSL and is based on the same specifications authenticating the server, client, and encrypts data.
