@@ -26,7 +26,7 @@ B. The protocols that secure HTTP uses (or HTTPS) to protect your data is with S
 ### **Securing Your Web Browser**
 A. You should secure your web browser because of the frequency they are used an if not secure leaves you open to Spyware or having someone else take control of your computer.
 B. One of the risks you could be exposed to is Spyware which can be put on your computer unbeknownst to you if you do not have security in place. it would allow the intruder to spy on what you do and type compromisng everything on your PC.
-## **HTML5 AND CSS**
+
 
 ### **Internet Programming**
 A. Tim Berners-Lee was an inventor of the World Wide Web.. he even coined the term. An wrote the first server as "Httpd". 
@@ -34,10 +34,25 @@ He created "W3C"( The World Wide Web Consortium) for the creation of Web standar
 
 B. The standard I choice is Web Design and Applications and its important because it involves building and rendering webpages. Using alot of the common things we use today HTML,CSS,SVG and APIs. It also helps with making websites accessible to those with disabilities and spreads it all internationally.. Without any of this it would be hard to imagine the web being.. well "The Web".
 
+### **HTML5 AND CSS**
+4. Well the main purpose of HTML(HyperTextMarkupLangauge) is to design your page set up everything you want on it. Then using CSS(Cascading Style Sheets) You can add flair.. Color your texts borders change the fonts and so on.
+For my page I stuck with a dark background seeing as it was a horror topic...But used bright font to make sure that it was still visible. To put the box around my text though I ended up having to add to my code though.. So I added a Div to make sure I can get the box around the paragraph and not around each sentence.
 
+### **HTML and XML**
+XML differs from HTML because Html displays data where as XML is designed to carry it, simplifying data sharinhg , transport , and availibility. You can also upgrade to new operating systems,applications and browsers without losing data.
 
-## **URL and File Paths**
+## **Components of a URL**
+Scheme/https - A scheme is the beginning of a URL which is commonly http or https.
 
+Domain/ www.amazon.com  - A Domain name is the main part of the web address.
+
+Top level domain/.edu - Each segment of the domain name seperated ny  period is a domain. "www" being the sub-domain, the middle the second-level domain and the last part which is either ".com" , ".org", ".edu" or etc being the Top-level domain.
+
+Default page/no file path provided - The term "Default page" would be considered a file path and comes after a domain name. But if it cant find the path typed in you are usually met with an error and the a phrase indicating to you that it couldn't locate what you were looking for.
+
+Parameters/result of search - Parameters are a string of characters that appear after a path and begins with a question mark. Usually pops up after performing a search like on google or yahoo.
+
+Anchor/specific location on page - Anchors tell the browser to scroll or load specific parts of pages. Usually with a hashtag as well.
 
 
 
