@@ -28,5 +28,4 @@ II. I would say the technology is streaming, social media and sports apps if not
 it would be a waste and they wouldnt know what exactly people wanted to see ,read,bet on or buy if they didnt.
 
 
-
 # **Conclusion**
