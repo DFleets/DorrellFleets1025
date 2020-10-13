@@ -27,5 +27,12 @@ Velocity- Represents the "motion" of the data and helps in making business decis
 II. I would say the technology is streaming, social media and sports apps if not gambling ones increased the need for big data. With all the people using them in real time 
 it would be a waste and they wouldnt know what exactly people wanted to see ,read,bet on or buy if they didnt.
 
+## **Structured Query Langauge**
+A.RDBMS stands for Relational database management systems its how all the info/data is stored and is also the basis for SQL and all modern database systems.
+
+B.The two tables I chose are Order Details and Products. ProductID is the foreign key because it connects Products with Order Details since its in both columns and OrderID is the Primary Key.
+
+## **SQL Injections**
+B.
 
 # **Conclusion**
