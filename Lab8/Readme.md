@@ -33,6 +33,8 @@ A.RDBMS stands for Relational database management systems its how all the info/d
 B.The two tables I chose are Order Details and Products. ProductID is the foreign key because it connects Products with Order Details since its in both columns and OrderID is the Primary Key.
 
 ## **SQL Injections**
-B.
+
+B. SQL injection is a form of hacking where the hacker can gain access through the use of sql statements that can return a password value as true.
+To avoid this you should use SQL parameters which are values that are added to the query in a controlled manner during the point of execution.
 
 # **Conclusion**
